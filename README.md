@@ -68,8 +68,6 @@ hacker-style-resume/
 3. 选择 `main` 分支作为源
 4. 访问 `https://xinyi-jane.github.io/hacker-style-resume/`
 
-**注意**: 如果仓库尚未重命名，访问地址为 `https://xinyi-jane.github.io/xinyi-jane-WSL.github.io/`
-
 ## 🎨 自定义内容
 
 编辑 `script.js` 文件中的 `resumeData` 对象即可修改简历内容：
